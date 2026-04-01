@@ -1,0 +1,37 @@
+
+pandas
+numpy
+scikit-learn
+xgboost
+scipy
+joblib
+
+# visualization 
+matplotlib
+seaborn
+
+# api
+fastapi
+uvicorn
+python-multipart
+jinja2
+
+# database
+pymongo
+
+# cloud
+boto3
+botocore
+mypy-boto3-s3
+
+# config & utils
+PyYAML
+dill
+certifi
+from_root
+
+# dev
+ipykernel
+
+# local package
+-e .
