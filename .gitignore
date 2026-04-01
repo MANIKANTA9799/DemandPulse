@@ -1,1 +1,5 @@
 DEMANDPULSE.egg-info
+logs
+src/__pycache__/
+src/exception/__pycache__/
+src/logger/__pycache__/
